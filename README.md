@@ -2,13 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 
 
--I am currently
- learning WEB-DEVELOPMENT
+-Full-Stack AI Web Developer
 -----------------------------------------
 
 * 🌍  I'm based in Banglore
 * ✉️  You can contact me at [srikanthjoshi96@gmail.com]
-* Intrested in Tech and Football
+* Intrested in Tech|Football|Geopolitics 
 
 
 
